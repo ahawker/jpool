@@ -1,4 +1,4 @@
 jpool
 =========
 
-NFL pickem system built on ember.js and flask.
+NFL pickem app built on ember.js and flask.
