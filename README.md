@@ -1,4 +1,4 @@
-pickem.js
+jpool
 =========
 
-NFL pickem build on Meteor/Node.js.
+NFL pickem system built on ember.js and flask.
